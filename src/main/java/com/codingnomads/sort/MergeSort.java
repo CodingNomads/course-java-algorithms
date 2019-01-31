@@ -8,6 +8,8 @@ package com.codingnomads.sort;
  * This will be the sorted list
  * <p>
  * This video explains it graphically: https://youtu.be/JSceec-wEyw
+ * <p>
+ * https://www.geeksforgeeks.org/merge-sort/
  */
 
 public class MergeSort {
